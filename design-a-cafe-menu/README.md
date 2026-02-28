@@ -31,7 +31,8 @@ https://smithsteven22.github.io/responsive-web-design-projects/design-a-cafe-men
 
 ## 📷 Preview
 
-*(You can add a screenshot here later)*
+<p align="center">
+  <img src="preview_menu.png" width="500">
+</p>
 
----
 
