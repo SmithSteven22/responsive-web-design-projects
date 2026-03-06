@@ -32,7 +32,7 @@ https://smithsteven22.github.io/responsive-web-design-projects/design-a-business
 ## 📷 Preview
 
 <p align="center">
-  <img src="preview_menu.png" width="500">
+  <img src="business-card.png" width="500">
 </p>
 
 
