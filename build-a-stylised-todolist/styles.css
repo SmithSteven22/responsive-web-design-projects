@@ -1,0 +1,39 @@
+.container {
+  width: 200px;
+  margin: 0 auto;
+  background: rgb(227, 235, 237);
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.todo-list li {
+  padding: 5px;
+  background: lightblue;
+  border-radius: 20px;
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: orange;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:focus {
+  outline: 2px solid blue
+}
